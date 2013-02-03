@@ -1,0 +1,3 @@
+repo
+====
+it's a tes repo for learning ruby on rails ... 
